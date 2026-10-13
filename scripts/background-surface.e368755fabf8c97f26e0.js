@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknew_bedford_framework=globalThis.webpackChunknew_bedford_framework||[]).push([[33],{34520:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});var a=s(90884),o=s(46418);class n extends o.A{constructor(e){super(e,a.A)}}const c=e=>new n(e)}}]);

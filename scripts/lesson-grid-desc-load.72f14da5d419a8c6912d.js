@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknew_bedford_framework=globalThis.webpackChunknew_bedford_framework||[]).push([[2519],{94237:(e,r,a)=>{a.r(r),a.d(r,{default:()=>l});const l=e=>{let r=e.innerHTML;r=r.replace(/<p[^>]*>/g,""),r=r.slice(0,-4),r=r.replace(/<\/?p[^>]*>/g,"<br/>"),r="<p>"+r+"</p>",e.innerHTML=r}}}]);

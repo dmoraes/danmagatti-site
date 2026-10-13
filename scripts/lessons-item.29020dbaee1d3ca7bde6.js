@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunknew_bedford_framework=globalThis.webpackChunknew_bedford_framework||[]).push([[7790],{81114:(e,s,r)=>{r.r(s),r.d(s,{LessonsItemController:()=>n,default:()=>t});var o=r(24911);class n extends o.A{constructor(e){super(),this.node=e}}const t=e=>new n(e)}}]);
